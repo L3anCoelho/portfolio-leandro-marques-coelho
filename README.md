@@ -14,7 +14,7 @@ Atualmente focado no desenvolvimento de habilidades na área de tecnologia, com 
 
 Busco evoluir constantemente através da prática, criando soluções simples, funcionais e com boa experiência de usuário.
 
-* **Habilidades Técnicas:** HTML, CSS, JavaScript
+* **Habilidades Técnicas:** HTML, CSS, JavaScript, python e eng de prompt
 * **Habilidades Socioemocionais:** Disciplina, aprendizado rápido, consistência
 * **Objetivo:** Evoluir como desenvolvedor e construir projetos reais que gerem valor
 
@@ -34,11 +34,12 @@ Busco evoluir constantemente através da prática, criando soluções simples, f
 #### 🌱 Projetos Iniciais
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Recyclo** | Plataforma focada em incentivar hábitos de reciclagem com elementos de gamificação. | [Ver Projeto](./recyclo/) |
+| **Recyclo** | Plataforma focada em incentivar hábitos de reciclagem com elementos de gamificação. | [Ver Projeto](https://l3ancoelho.github.io/ReCyclo/index.html) |
+| **Esys Energia** | Website comercial desenvolvido para empresa do setor de energia, com foco em apresentação de serviços e experiência do usuário. Implementação de layout moderno, responsivo e otimizado para conversão. | [Ver Projeto](https://www.esysenergia.com.br) |
+| **Projetos com Python** | Coleção de exercícios e scripts desenvolvidos em Python, focados em lógica de programação e estrutura de dados. | [Ver Repositório](https://github.com/L3anCoelho/projetos-com-python) |
 
----
 
 ### 🏗 Estrutura do Repositório
 
 - `README.md`: Apresentação principal
-- `/recyclo/`: Projeto com código e documentação
+
