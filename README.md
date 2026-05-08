@@ -42,5 +42,5 @@ Busco evoluir constantemente através da prática, criando soluções simples, f
 
 ### 🏗 Estrutura do Repositório
 
-- `README.md`: Apresentação principal
+- `README.md`
 
