@@ -30,6 +30,7 @@ Busco evoluir constantemente através da prática, criando soluções simples, f
 ![Prompt Engineering](https://img.shields.io/badge/prompt%20engineering-000000?style=for-the-badge)
 ---
 
+
 ### 📂 Portfólio de Projetos
 
 #### 🌱 Projetos Iniciais
@@ -37,6 +38,7 @@ Busco evoluir constantemente através da prática, criando soluções simples, f
 | :--- | :--- | :---: |
 | **Recyclo** | Plataforma focada em incentivar hábitos de reciclagem com elementos de gamificação. | [Ver Projeto](https://l3ancoelho.github.io/ReCyclo/index.html) |
 | **Esys Energia** | Website comercial desenvolvido para empresa do setor de energia, com foco em apresentação de serviços e experiência do usuário. Implementação de layout moderno, responsivo e otimizado para conversão. | [Ver Projeto](https://www.esysenergia.com.br) |
+| **Landing Page Comercial** | Landing page moderna desenvolvida com foco em conversão, design responsivo e apresentação profissional de serviços digitais. Estrutura otimizada para experiência do usuário e performance. | [Ver Projeto](https://l3ancoelho.github.io/landing-page/) |
 | **Projetos com Python** | Coleção de exercícios e scripts desenvolvidos em Python, focados em lógica de programação e estrutura de dados. | [Ver Repositório](https://github.com/L3anCoelho/projetos-com-python) |
 
 
